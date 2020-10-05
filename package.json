@@ -1,0 +1,29 @@
+{
+  "name": "le-phare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christopher-cruzcosa/le-phare-human-resources-tracker"
+  },
+  "author": "C Cruzcosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christopher-cruzcosa/le-phare-human-resources-tracker"
+  },
+  "homepage": "https://github.com/christopher-cruzcosa/le-phare-human-resources-tracker",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
