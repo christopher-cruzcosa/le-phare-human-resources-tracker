@@ -3,7 +3,7 @@ A human resources tracker for team leaders to organize their personnel informati
 
 ## Installation
 
-This web app is made up oen central app.js file and five supplmental js files, Inquirer and Jest modules, four template html files, and images for screenshots and the company logo.
+This web app is made up of one central app.js file, five supplemental js files, the Inquirer and Jest modules, four template html files, and images for both screenshots and the company logo.
 
 The location of the Github repo is: https://github.com/christopher-cruzcosa/le-phare-human-resources-tracker - this is not currently deployed live.
 
